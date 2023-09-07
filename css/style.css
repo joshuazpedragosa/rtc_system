@@ -1,0 +1,51 @@
+body{
+    background-color: #303D44;
+}
+.card-span{
+    padding-left: 40%;
+    padding-top: 10%;
+}
+.card{
+    background-color: black;
+    text-align: center;
+    width: 40%;
+    border-radius: 20px;
+    height: 350px;
+    border: 1px solid #FFF;
+}
+form{
+    padding: 20px;
+}
+#header{
+    color: #FFF;
+}
+.text{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background: transparent;
+    border-bottom: 1px solid #FFF;
+    padding: 10px;
+    color: #FFF;
+}
+.text-span{
+    padding-bottom: 10px;
+}
+.btn-span{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#icon{
+    color: #FFF;
+    font-size: 30px;
+}
+#btn{
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+    width: 30%;
+}
+#register{
+    color: #FFF;
+}
